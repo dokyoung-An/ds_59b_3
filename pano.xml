@@ -47,7 +47,7 @@
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
       <label wordwrap="1" textcolor="0x000000" width="180" background="1" enabled="1" height="20" textalpha="1" borderradius="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff"/>
       <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="ht_node" id="Point01" tilt="-32.14" description="" pan="-214.75" title="공용욕실" url="{node2}" target=""/>
+      <hotspot skinid="ht_node" id="Point01" tilt="-32.14" description="" pan="-214.75" title="욕실2" url="{node2}" target=""/>
       <hotspot skinid="ht_node" id="Point02" tilt="-39.53" description="" pan="-307.4" title="현관" url="{node11}" target=""/>
       <hotspot skinid="ht_node" id="Point03" tilt="-24.68" description="" pan="1.24" title="복도2" url="{node4}" target=""/>
       <hotspot skinid="ht_node" id="Point04" tilt="-32.08" description="" pan="-28.9" title="침실2" url="{node9}" target=""/>
@@ -140,7 +140,7 @@
       <hotspot skinid="ht_node" id="Point01" tilt="-14.83" description="" pan="-95.36" title="거실" url="{node1}" target=""/>
       <hotspot skinid="ht_node" id="Point02" tilt="-28.01" description="" pan="-194.18" title="복도3" url="{node5}" target=""/>
       <hotspot skinid="ht_node" id="Point03" tilt="-5.78" description="" pan="-226.13" title="주방" url="{node8}" target=""/>
-      <hotspot skinid="ht_node" id="Point04" tilt="-17.97" description="" pan="-312.59" title="침실1욕실" url="{node7}" target=""/>
+      <hotspot skinid="ht_node" id="Point04" tilt="-17.97" description="" pan="-312.59" title="욕실1" url="{node7}" target=""/>
       <hotspot skinid="ht_node" id="Point05" tilt="-24.45" description="" pan="-359.47" title="침실1" url="{node6}" target=""/>
       <hotspot skinid="ht_node" id="Point06" tilt="-11.87" description="" pan="-281.33" title="주방2" url="{node13}" target=""/>
     </hotspots>
@@ -163,7 +163,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330"/>
     </view>
-    <userdata copyright="" datetime="" tags="02-59B타입|가구ON|낮" info="" longitude="" latitude="" source="" nodeid="node2" heading="0" author="" description="공용욕실" title="공용욕실" comment="" customnodeid="">
+    <userdata copyright="" datetime="" tags="02-59B타입|가구ON|낮" info="" longitude="" latitude="" source="" nodeid="node2" heading="0" author="" description="공용욕실" title="욕실2" comment="" customnodeid="">
       <mapcoords x_floorplan_percent="12.8" mapid="FloorPlan01" x="0.351563" y="-1.12061" y_floorplan_percent="40.8"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -198,7 +198,7 @@
       <label wordwrap="1" textcolor="0x000000" width="180" background="1" enabled="1" height="20" textalpha="1" borderradius="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff"/>
       <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot skinid="ht_node" id="Point02" tilt="-24.96" description="" pan="-324.12" title="침실1" url="{node6}" target=""/>
-      <hotspot skinid="ht_node" id="Point03" tilt="-15.3" description="" pan="-296.18" title="침실1욕실" url="{node7}" target=""/>
+      <hotspot skinid="ht_node" id="Point03" tilt="-15.3" description="" pan="-296.18" title="욕실1" url="{node7}" target=""/>
       <hotspot skinid="ht_node" id="Point01" tilt="-32.79" description="" pan="-258.08" title="복도4" url="{node12}" target=""/>
       <hotspot skinid="ht_node" id="Point04" tilt="-19.04" description="" pan="-218.15" title="복도3" url="{node5}" target=""/>
       <hotspot skinid="VIEW" id="Point05" tilt="-5.26" description="" pan="-93.47" title="" url="" target="_blank"/>
@@ -229,7 +229,7 @@
       <label wordwrap="1" textcolor="0x000000" width="180" background="1" enabled="1" height="20" textalpha="1" borderradius="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff"/>
       <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot skinid="ht_node" id="Point01" tilt="-17.67" description="" pan="-56.3" title="복도4" url="{node12}" target=""/>
-      <hotspot skinid="ht_node" id="Point04" tilt="-13.64" description="" pan="-5.51" title="침실1욕실" url="{node7}" target=""/>
+      <hotspot skinid="ht_node" id="Point04" tilt="-13.64" description="" pan="-5.51" title="욕실1" url="{node7}" target=""/>
       <hotspot skinid="ht_node" id="Point05" tilt="-31.53" description="" pan="-143.26" title="복도3" url="{node5}" target=""/>
       <hotspot skinid="ht_node" id="Point06" tilt="-11.84" description="" pan="-118.5" title="침실2" url="{node9}" target=""/>
       <hotspot skinid="ht_node" id="Point03" tilt="-37.07" description="" pan="4.16" title="주방2" url="{node13}" target=""/>
@@ -259,7 +259,7 @@
       <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot skinid="ht_node" id="Point01" tilt="-38.84" description="" pan="-181.68" title="주방" url="{node8}" target=""/>
       <hotspot skinid="ht_node" id="Point02" tilt="-18.36" description="" pan="-100" title="복도4" url="{node12}" target=""/>
-      <hotspot skinid="ht_node" id="Point03" tilt="-20.85" description="" pan="-12.78" title="침실1욕실" url="{node7}" target=""/>
+      <hotspot skinid="ht_node" id="Point03" tilt="-20.85" description="" pan="-12.78" title="욕실1" url="{node7}" target=""/>
       <hotspot skinid="ht_node" id="Point04" tilt="-12.95" description="" pan="-156.34" title="복도3" url="{node5}" target=""/>
     </hotspots>
     <media/>
@@ -287,7 +287,7 @@
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
       <label wordwrap="1" textcolor="0x000000" width="180" background="1" enabled="1" height="20" textalpha="1" borderradius="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff"/>
       <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="ht_node" id="Point01" tilt="-19.31" description="" pan="-239.14" title="침실1욕실" url="{node7}" target=""/>
+      <hotspot skinid="ht_node" id="Point01" tilt="-19.31" description="" pan="-239.14" title="욕실1" url="{node7}" target=""/>
       <hotspot skinid="ht_node" id="Point02" tilt="-20.7" description="" pan="-213.23" title="복도4" url="{node12}" target=""/>
       <hotspot skinid="display-침대" id="Point03" tilt="-26.81" description="" pan="-14.79" title="" url="" target="_blank"/>
     </hotspots>
@@ -310,7 +310,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330"/>
     </view>
-    <userdata copyright="" datetime="" tags="02-59B타입|가구ON|낮" info="" longitude="" latitude="" source="" nodeid="node7" heading="91.7789" author="" description="침실1욕실" title="침실1욕실" comment="넓게" customnodeid="">
+    <userdata copyright="" datetime="" tags="02-59B타입|가구ON|낮" info="" longitude="" latitude="" source="" nodeid="node7" heading="91.7789" author="" description="침실1욕실" title="욕실1" comment="넓게" customnodeid="">
       <mapcoords x_floorplan_percent="77.6" mapid="FloorPlan01" x="2.13135" y="-1.21948" y_floorplan_percent="44.4"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -426,7 +426,7 @@
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
       <label wordwrap="1" textcolor="0x000000" width="180" background="1" enabled="1" height="20" textalpha="1" borderradius="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff"/>
       <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="ht_node" id="Point01" tilt="-32.14" description="" pan="-214.75" title="공용욕실" url="{node15}" target=""/>
+      <hotspot skinid="ht_node" id="Point01" tilt="-32.14" description="" pan="-214.75" title="욕실2" url="{node15}" target=""/>
       <hotspot skinid="ht_node" id="Point02" tilt="-39.53" description="" pan="-307.4" title="현관" url="{node26}" target=""/>
       <hotspot skinid="ht_node" id="Point03" tilt="-24.68" description="" pan="1.24" title="복도2" url="{node17}" target=""/>
       <hotspot skinid="ht_node" id="Point04" tilt="-32.08" description="" pan="-28.9" title="침실2" url="{node24}" target=""/>
@@ -521,7 +521,7 @@
       <hotspot skinid="ht_node" id="Point01" tilt="-14.83" description="" pan="-95.36" title="거실" url="{node14}" target=""/>
       <hotspot skinid="ht_node" id="Point02" tilt="-28.01" description="" pan="-194.18" title="복도3" url="{node18}" target=""/>
       <hotspot skinid="ht_node" id="Point03" tilt="-5.78" description="" pan="-226.13" title="주방" url="{node20}" target=""/>
-      <hotspot skinid="ht_node" id="Point04" tilt="-17.97" description="" pan="-312.59" title="침실1욕실" url="{node23}" target=""/>
+      <hotspot skinid="ht_node" id="Point04" tilt="-17.97" description="" pan="-312.59" title="욕실1" url="{node23}" target=""/>
       <hotspot skinid="ht_node" id="Point05" tilt="-24.45" description="" pan="-359.47" title="침실1" url="{node22}" target=""/>
       <hotspot skinid="ht_node" id="Point06" tilt="-11.87" description="" pan="-281.33" title="주방2" url="{node21}" target=""/>
       <hotspot skinid="ht_node" id="Point07" tilt="-21.53" description="" pan="-172.44" title="침실2" url="{node24}" target=""/>
@@ -546,7 +546,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330"/>
     </view>
-    <userdata copyright="" datetime="" tags="59B낮|가구OFF|낮" info="" longitude="" latitude="" source="" nodeid="node15" heading="0" author="" description="공용욕실" title="공용욕실" comment="" customnodeid="">
+    <userdata copyright="" datetime="" tags="59B낮|가구OFF|낮" info="" longitude="" latitude="" source="" nodeid="node15" heading="0" author="" description="공용욕실" title="욕실2" comment="" customnodeid="">
       <mapcoords x_floorplan_percent="11.6" mapid="FloorPlan02" x="0.318604" y="-1.07666" y_floorplan_percent="39.2"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -581,7 +581,7 @@
       <label wordwrap="1" textcolor="0x000000" width="180" background="1" enabled="1" height="20" textalpha="1" borderradius="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff"/>
       <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot skinid="ht_node" id="Point01" tilt="-24.96" description="" pan="-324.12" title="침실1" url="{node22}" target=""/>
-      <hotspot skinid="ht_node" id="Point02" tilt="-15.3" description="" pan="-296.18" title="침실1욕실" url="{node23}" target=""/>
+      <hotspot skinid="ht_node" id="Point02" tilt="-15.3" description="" pan="-296.18" title="욕실1" url="{node23}" target=""/>
       <hotspot skinid="ht_node" id="Point03" tilt="-32.79" description="" pan="-258.08" title="복도4" url="{node19}" target=""/>
       <hotspot skinid="ht_node" id="Point04" tilt="-19.04" description="" pan="-218.15" title="복도3" url="{node18}" target=""/>
       <hotspot skinid="display-선반" id="Point05" tilt="-14.66" description="" pan="-21.58" title="" url="" target="_blank"/>
@@ -614,7 +614,7 @@
       <label wordwrap="1" textcolor="0x000000" width="180" background="1" enabled="1" height="20" textalpha="1" borderradius="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff"/>
       <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot skinid="ht_node" id="Point03" tilt="-17.67" description="" pan="-56.3" title="복도4" url="{node19}" target=""/>
-      <hotspot skinid="ht_node" id="Point04" tilt="-13.64" description="" pan="-5.51" title="침실1욕실" url="{node23}" target=""/>
+      <hotspot skinid="ht_node" id="Point04" tilt="-13.64" description="" pan="-5.51" title="욕실1" url="{node23}" target=""/>
       <hotspot skinid="ht_node" id="Point05" tilt="-31.53" description="" pan="-143.26" title="복도3" url="{node18}" target=""/>
       <hotspot skinid="ht_node" id="Point06" tilt="-11.84" description="" pan="-118.5" title="침실2" url="{node24}" target=""/>
       <hotspot skinid="ht_node" id="Point02" tilt="-37.07" description="" pan="4.16" title="주방2" url="{node21}" target=""/>
@@ -646,7 +646,7 @@
       <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot skinid="ht_node" id="Point01" tilt="-38.84" description="" pan="-181.68" title="주방" url="{node20}" target=""/>
       <hotspot skinid="ht_node" id="Point02" tilt="-18.36" description="" pan="-100" title="복도4" url="{node19}" target=""/>
-      <hotspot skinid="ht_node" id="Point03" tilt="-20.85" description="" pan="-12.78" title="침실1욕실" url="{node23}" target=""/>
+      <hotspot skinid="ht_node" id="Point03" tilt="-20.85" description="" pan="-12.78" title="욕실1" url="{node23}" target=""/>
       <hotspot skinid="ht_node" id="Point04" tilt="-12.95" description="" pan="-156.34" title="복도3" url="{node18}" target=""/>
     </hotspots>
     <media/>
@@ -674,7 +674,7 @@
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
       <label wordwrap="1" textcolor="0x000000" width="180" background="1" enabled="1" height="20" textalpha="1" borderradius="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff"/>
       <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="ht_node" id="Point01" tilt="-19.31" description="" pan="-239.14" title="침실1욕실" url="{node23}" target=""/>
+      <hotspot skinid="ht_node" id="Point01" tilt="-19.31" description="" pan="-239.14" title="욕실1" url="{node23}" target=""/>
       <hotspot skinid="ht_node" id="Point02" tilt="-20.7" description="" pan="-213.23" title="복도4" url="{node19}" target=""/>
       <hotspot skinid="display-침대" id="Point03" tilt="-26.47" description="" pan="-360" title="" url="" target="_blank"/>
     </hotspots>
@@ -697,7 +697,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330"/>
     </view>
-    <userdata copyright="" datetime="" tags="59B낮|가구OFF|낮" info="" longitude="" latitude="" source="" nodeid="node23" heading="90.2582" author="" description="침실1욕실" title="침실1욕실" comment="넓게" customnodeid="">
+    <userdata copyright="" datetime="" tags="59B낮|가구OFF|낮" info="" longitude="" latitude="" source="" nodeid="node23" heading="90.2582" author="" description="침실1욕실" title="욕실1" comment="넓게" customnodeid="">
       <mapcoords x_floorplan_percent="82" mapid="FloorPlan02" x="2.2522" y="-1.13159" y_floorplan_percent="41.2"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -815,7 +815,7 @@
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
       <label wordwrap="1" textcolor="0x000000" width="180" background="1" enabled="1" height="20" textalpha="1" borderradius="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff"/>
       <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="ht_node" id="Point01" tilt="-32.14" description="" pan="-214.75" title="공용욕실" url="{node28}" target=""/>
+      <hotspot skinid="ht_node" id="Point01" tilt="-32.14" description="" pan="-214.75" title="욕실2" url="{node28}" target=""/>
       <hotspot skinid="ht_node" id="Point02" tilt="-39.53" description="" pan="-307.4" title="현관" url="{node39}" target=""/>
       <hotspot skinid="ht_node" id="Point03" tilt="-24.68" description="" pan="1.24" title="복도2" url="{node30}" target=""/>
       <hotspot skinid="ht_node" id="Point04" tilt="-32.08" description="" pan="-28.9" title="침실2" url="{node37}" target=""/>
@@ -910,7 +910,7 @@
       <hotspot skinid="ht_node" id="Point01" tilt="-14.83" description="" pan="-95.36" title="거실" url="{node27}" target=""/>
       <hotspot skinid="ht_node" id="Point02" tilt="-28.01" description="" pan="-194.18" title="복도3" url="{node31}" target=""/>
       <hotspot skinid="ht_node" id="Point03" tilt="-5.78" description="" pan="-226.13" title="주방" url="{node33}" target=""/>
-      <hotspot skinid="ht_node" id="Point04" tilt="-17.97" description="" pan="-312.59" title="침실1욕실" url="{node36}" target=""/>
+      <hotspot skinid="ht_node" id="Point04" tilt="-17.97" description="" pan="-312.59" title="욕실1" url="{node36}" target=""/>
       <hotspot skinid="ht_node" id="Point05" tilt="-24.45" description="" pan="-359.47" title="침실1" url="{node35}" target=""/>
       <hotspot skinid="ht_node" id="Point06" tilt="-11.87" description="" pan="-281.33" title="주방2" url="{node34}" target=""/>
     </hotspots>
@@ -933,7 +933,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330"/>
     </view>
-    <userdata copyright="" datetime="" tags="59B무빙월밤|가구ON|밤" info="" longitude="" latitude="" source="" nodeid="node28" heading="0" author="" description="공용욕실" title="공용욕실" comment="" customnodeid="">
+    <userdata copyright="" datetime="" tags="59B무빙월밤|가구ON|밤" info="" longitude="" latitude="" source="" nodeid="node28" heading="0" author="" description="공용욕실" title="욕실2" comment="" customnodeid="">
       <mapcoords x_floorplan_percent="11.2" mapid="FloorPlan03" x="0.307617" y="-1.05469" y_floorplan_percent="38.4"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -968,7 +968,7 @@
       <label wordwrap="1" textcolor="0x000000" width="180" background="1" enabled="1" height="20" textalpha="1" borderradius="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff"/>
       <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot skinid="ht_node" id="Point01" tilt="-24.96" description="" pan="-324.12" title="침실1" url="{node35}" target=""/>
-      <hotspot skinid="ht_node" id="Point02" tilt="-15.3" description="" pan="-296.18" title="침실1욕실" url="{node36}" target=""/>
+      <hotspot skinid="ht_node" id="Point02" tilt="-15.3" description="" pan="-296.18" title="욕실1" url="{node36}" target=""/>
       <hotspot skinid="ht_node" id="Point03" tilt="-32.79" description="" pan="-258.08" title="복도4" url="{node32}" target=""/>
       <hotspot skinid="ht_node" id="Point04" tilt="-19.04" description="" pan="-218.15" title="복도3" url="{node31}" target=""/>
       <hotspot skinid="VIEW" id="Point05" tilt="-5.26" description="" pan="-93.47" title="" url="" target="_blank"/>
@@ -999,7 +999,7 @@
       <label wordwrap="1" textcolor="0x000000" width="180" background="1" enabled="1" height="20" textalpha="1" borderradius="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff"/>
       <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot skinid="ht_node" id="Point02" tilt="-17.67" description="" pan="-56.3" title="복도4" url="{node32}" target=""/>
-      <hotspot skinid="ht_node" id="Point03" tilt="-13.64" description="" pan="-5.51" title="침실1욕실" url="{node36}" target=""/>
+      <hotspot skinid="ht_node" id="Point03" tilt="-13.64" description="" pan="-5.51" title="욕실1" url="{node36}" target=""/>
       <hotspot skinid="ht_node" id="Point04" tilt="-31.53" description="" pan="-143.26" title="복도3" url="{node31}" target=""/>
       <hotspot skinid="ht_node" id="Point05" tilt="-11.84" description="" pan="-118.5" title="침실2" url="{node37}" target=""/>
       <hotspot skinid="ht_node" id="Point01" tilt="-37.07" description="" pan="4.16" title="주방2" url="{node34}" target=""/>
@@ -1031,7 +1031,7 @@
       <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot skinid="ht_node" id="Point01" tilt="-38.84" description="" pan="-181.68" title="주방" url="{node33}" target=""/>
       <hotspot skinid="ht_node" id="Point02" tilt="-18.36" description="" pan="-100" title="복도4" url="{node32}" target=""/>
-      <hotspot skinid="ht_node" id="Point03" tilt="-20.85" description="" pan="-12.78" title="침실1욕실" url="{node36}" target=""/>
+      <hotspot skinid="ht_node" id="Point03" tilt="-20.85" description="" pan="-12.78" title="욕실1" url="{node36}" target=""/>
       <hotspot skinid="ht_node" id="Point04" tilt="-12.95" description="" pan="-156.34" title="복도3" url="{node31}" target=""/>
     </hotspots>
     <media/>
@@ -1059,7 +1059,7 @@
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
       <label wordwrap="1" textcolor="0x000000" width="180" background="1" enabled="1" height="20" textalpha="1" borderradius="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff"/>
       <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="ht_node" id="Point01" tilt="-19.31" description="" pan="-239.14" title="침실1욕실" url="{node36}" target=""/>
+      <hotspot skinid="ht_node" id="Point01" tilt="-19.31" description="" pan="-239.14" title="욕실1" url="{node36}" target=""/>
       <hotspot skinid="ht_node" id="Point02" tilt="-20.7" description="" pan="-213.23" title="복도4" url="{node32}" target=""/>
       <hotspot skinid="display-침대" id="Point03" tilt="-28.67" description="" pan="-11.09" title="" url="" target="_blank"/>
     </hotspots>
@@ -1082,7 +1082,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330"/>
     </view>
-    <userdata copyright="" datetime="" tags="59B무빙월밤|가구ON|밤" info="" longitude="" latitude="" source="" nodeid="node36" heading="100.28" author="" description="침실1욕실" title="침실1욕실" comment="넓게" customnodeid="">
+    <userdata copyright="" datetime="" tags="59B무빙월밤|가구ON|밤" info="" longitude="" latitude="" source="" nodeid="node36" heading="100.28" author="" description="침실1욕실" title="욕실1" comment="넓게" customnodeid="">
       <mapcoords x_floorplan_percent="82.4" mapid="FloorPlan03" x="2.26318" y="-1.15356" y_floorplan_percent="42"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -1201,7 +1201,7 @@
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
       <label wordwrap="1" textcolor="0x000000" width="180" background="1" enabled="1" height="20" textalpha="1" borderradius="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff"/>
       <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="ht_node" id="Point01" tilt="-30.46" description="" pan="-215.01" title="공용욕실" url="{node41}" target=""/>
+      <hotspot skinid="ht_node" id="Point01" tilt="-30.46" description="" pan="-215.01" title="욕실2" url="{node41}" target=""/>
       <hotspot skinid="ht_node" id="Point02" tilt="-39.53" description="" pan="-307.4" title="현관" url="{node48}" target=""/>
       <hotspot skinid="ht_node" id="Point03" tilt="-24.68" description="" pan="1.24" title="복도2" url="{node50}" target=""/>
       <hotspot skinid="ht_node" id="Point04" tilt="-32.08" description="" pan="-28.9" title="침실2" url="{node46}" target=""/>
@@ -1296,7 +1296,7 @@
       <hotspot skinid="ht_node" id="Point01" tilt="-14.83" description="" pan="-95.36" title="거실" url="{node40}" target=""/>
       <hotspot skinid="ht_node" id="Point02" tilt="-28.01" description="" pan="-194.18" title="복도3" url="{node51}" target=""/>
       <hotspot skinid="ht_node" id="Point03" tilt="-5.78" description="" pan="-226.13" title="주방" url="{node42}" target=""/>
-      <hotspot skinid="ht_node" id="Point04" tilt="-17.97" description="" pan="-312.59" title="침실1욕실" url="{node45}" target=""/>
+      <hotspot skinid="ht_node" id="Point04" tilt="-17.97" description="" pan="-312.59" title="욕실1" url="{node45}" target=""/>
       <hotspot skinid="ht_node" id="Point05" tilt="-24.45" description="" pan="-359.47" title="침실1" url="{node44}" target=""/>
       <hotspot skinid="ht_node" id="Point06" tilt="-11.87" description="" pan="-281.33" title="주방2" url="{node43}" target=""/>
       <hotspot skinid="ht_node" id="Point07" tilt="-20.59" description="" pan="-172.31" title="침실2" url="{node46}" target=""/>
@@ -1320,7 +1320,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330"/>
     </view>
-    <userdata copyright="" datetime="" tags="59B밤|가구OFF|밤" info="" longitude="" latitude="" source="" nodeid="node41" heading="0.710384" author="" description="공용욕실" title="공용욕실" comment="" customnodeid="">
+    <userdata copyright="" datetime="" tags="59B밤|가구OFF|밤" info="" longitude="" latitude="" source="" nodeid="node41" heading="0.710384" author="" description="공용욕실" title="욕실2" comment="" customnodeid="">
       <mapcoords x_floorplan_percent="12.4" mapid="FloorPlan04" x="0.340576" y="-1.06567" y_floorplan_percent="38.8"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -1355,7 +1355,7 @@
       <label wordwrap="1" textcolor="0x000000" width="180" background="1" enabled="1" height="20" textalpha="1" borderradius="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff"/>
       <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot skinid="ht_node" id="Point01" tilt="-24.96" description="" pan="-324.12" title="침실1" url="{node44}" target=""/>
-      <hotspot skinid="ht_node" id="Point02" tilt="-15.3" description="" pan="-296.18" title="침실1욕실" url="{node45}" target=""/>
+      <hotspot skinid="ht_node" id="Point02" tilt="-15.3" description="" pan="-296.18" title="욕실1" url="{node45}" target=""/>
       <hotspot skinid="ht_node" id="Point03" tilt="-32.79" description="" pan="-258.08" title="복도4" url="{node52}" target=""/>
       <hotspot skinid="ht_node" id="Point04" tilt="-19.04" description="" pan="-218.15" title="복도3" url="{node51}" target=""/>
       <hotspot skinid="display-선반" id="Point05" tilt="-14.66" description="" pan="-21.58" title="" url="" target="_blank"/>
@@ -1388,7 +1388,7 @@
       <label wordwrap="1" textcolor="0x000000" width="180" background="1" enabled="1" height="20" textalpha="1" borderradius="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff"/>
       <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot skinid="ht_node" id="Point02" tilt="-17.67" description="" pan="-56.3" title="복도4" url="{node52}" target=""/>
-      <hotspot skinid="ht_node" id="Point03" tilt="-13.64" description="" pan="-5.51" title="침실1욕실" url="{node45}" target=""/>
+      <hotspot skinid="ht_node" id="Point03" tilt="-13.64" description="" pan="-5.51" title="욕실1" url="{node45}" target=""/>
       <hotspot skinid="ht_node" id="Point04" tilt="-31.53" description="" pan="-143.26" title="침실3" url="{node47}" target=""/>
       <hotspot skinid="ht_node" id="Point05" tilt="-11.84" description="" pan="-118.5" title="침실2" url="{node46}" target=""/>
       <hotspot skinid="ht_node" id="Point06" tilt="-37.07" description="" pan="4.16" title="주방2" url="{node43}" target=""/>
@@ -1420,7 +1420,7 @@
       <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot skinid="ht_node" id="Point01" tilt="-38.84" description="" pan="-181.68" title="주방" url="{node42}" target=""/>
       <hotspot skinid="ht_node" id="Point02" tilt="-18.36" description="" pan="-100" title="복도4" url="{node52}" target=""/>
-      <hotspot skinid="ht_node" id="Point03" tilt="-20.85" description="" pan="-12.78" title="침실1욕실" url="{node45}" target=""/>
+      <hotspot skinid="ht_node" id="Point03" tilt="-20.85" description="" pan="-12.78" title="욕실1" url="{node45}" target=""/>
       <hotspot skinid="ht_node" id="Point04" tilt="-12.95" description="" pan="-156.34" title="침실3" url="{node47}" target=""/>
     </hotspots>
     <media/>
@@ -1448,7 +1448,7 @@
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
       <label wordwrap="1" textcolor="0x000000" width="180" background="1" enabled="1" height="20" textalpha="1" borderradius="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" border="1" backgroundcolor="0xffffff"/>
       <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="ht_node" id="Point01" tilt="-19.31" description="" pan="-239.14" title="침실1욕실" url="{node45}" target=""/>
+      <hotspot skinid="ht_node" id="Point01" tilt="-19.31" description="" pan="-239.14" title="욕실1" url="{node45}" target=""/>
       <hotspot skinid="ht_node" id="Point02" tilt="-20.7" description="" pan="-213.23" title="복도4" url="{node52}" target=""/>
       <hotspot skinid="display-침대" id="Point03" tilt="-25.49" description="" pan="-11.57" title="" url="" target="_blank"/>
     </hotspots>
@@ -1471,7 +1471,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max scaletofit="1" fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330"/>
     </view>
-    <userdata copyright="" datetime="" tags="59B밤|가구OFF|밤" info="" longitude="" latitude="" source="" nodeid="node45" heading="109.081" author="" description="침실1욕실" title="침실1욕실" comment="넓게" customnodeid="">
+    <userdata copyright="" datetime="" tags="59B밤|가구OFF|밤" info="" longitude="" latitude="" source="" nodeid="node45" heading="109.081" author="" description="침실1욕실" title="욕실1" comment="넓게" customnodeid="">
       <mapcoords x_floorplan_percent="82.4" mapid="FloorPlan04" x="2.26318" y="-1.19751" y_floorplan_percent="43.6"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
